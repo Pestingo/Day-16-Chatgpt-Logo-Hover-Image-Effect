@@ -10,5 +10,7 @@
 
 
 Output - 1
+![image](https://github.com/user-attachments/assets/da927727-e817-451b-9100-a321c62bbf5d)
+
 
 
